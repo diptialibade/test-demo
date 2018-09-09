@@ -3,3 +3,5 @@ US
 UK
 Japan
 austrilia
+brazil
+america
